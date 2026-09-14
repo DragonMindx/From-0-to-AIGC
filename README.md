@@ -1,3 +1,5 @@
+# T0 A1 (To AI)
+
 一份面向初学者的AIGC指南，包含对AI的基础介绍、主流AI模型的推荐、Agent的配置与初体验等，目标是让更多人接触AIGC，并且使用AI提高自己的生产力
 
 为方便阅读，持续更新中……
@@ -6,4 +8,8 @@ This guide is designed for newcomers to generative AI. It provides a basic intro
 
 The goal is to make AIGC accessible to a broader audience and help users move beyond simply trying AI tools toward integrating them into their everyday study, work, and creative workflows as a practical productivity tool.
 
+---
 
+当前项目结构：
+\ref Obsidian文档仓库
+\web 以文档为参考的上线网页（现在还是空的）
