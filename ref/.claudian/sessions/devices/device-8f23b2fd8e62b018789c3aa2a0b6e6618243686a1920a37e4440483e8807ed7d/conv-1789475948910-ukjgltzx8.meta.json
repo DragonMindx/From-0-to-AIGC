@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789475948910-ukjgltzx8",
+  "providerId": "claude",
+  "title": "I'll look at the project structure and find the...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789475948925,
+  "lastActivityAt": 1789476167863,
+  "sessionId": "b24f898b-36fa-4c3f-ab0e-7f03a06c3919",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "b24f898b-36fa-4c3f-ab0e-7f03a06c3919"
+  },
+  "linkedContentPath": "Head First AI Agent——给新手的 AI 上手手册.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 245,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 84096,
+    "contextWindow": 1000000,
+    "contextTokens": 84341,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789475948910-ukjgltzx8",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789475949162-k22vggr",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789475948902-bq0pimo",
+      "timestamp": 1789475948902,
+      "rawDisplayText": "结合前面的内容，帮我补充Q4后的知识打卡部分内容",
+      "canonicalText": "结合前面的内容，帮我补充Q4后的知识打卡部分内容",
+      "context": {
+        "linkedContent": {
+          "path": "Head First AI Agent——给新手的 AI 上手手册.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "1649048126779c9d2eab3a601ae691dd72b57056173f34fa3183813f464dd068",
+      "providerUserMessageId": "0f70b33b-0b3d-4d25-bb91-1a7130b96247",
+      "providerAssistantMessageId": "a15ae581-af52-40f9-a843-6daa5b8b2652"
+    }
+  ]
+}

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "解放你的生产力·实战篇——新生 AI 上手手册.md",
+                "file": "Head First AI Agent——给新手的 AI 上手手册.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "解放你的生产力·实战篇——新生 AI 上手手册"
+              "title": "Head First AI Agent——给新手的 AI 上手手册"
             }
           }
         ],
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "解放你的生产力·实战篇——新生 AI 上手手册.md",
+                "file": "Head First AI Agent——给新手的 AI 上手手册.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,8 +196,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1789397003730-bkxyex1",
-                      "conversationId": null,
-                      "draftModel": "opus"
+                      "conversationId": "conv-1789475948910-ukjgltzx8"
                     }
                   ],
                   "activeTabId": "tab-1789397003730-bkxyex1"
@@ -206,13 +205,23 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "a20ed8b12e467863",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 380.699951171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +237,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "514cf3b6f0f71bd4",
+  "active": "1b357707ed3e4b32",
   "lastOpenFiles": [
+    "Pasted image 20260915221750.png",
+    "Head First AI Agent——给新手的 AI 上手手册.md.tmp.32208.1789476141471",
+    "Head First AI Agent——给新手的 AI 上手手册.md.tmp.32208.1789476117677",
     "解放你的生产力——一份给新生的AI使用指南.md",
-    "解放你的生产力·实战篇——新生 AI 上手手册.md",
+    "Head First AI Agent——给新手的 AI 上手手册.md",
     "欢迎.md",
     "解放你的生产力——一份给新生的AI使用指南.docx"
   ]
