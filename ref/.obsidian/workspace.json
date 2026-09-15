@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "解放你的生产力·实战篇——新生 AI 上手手册.md",
+                "file": "Head First AI Agent——给新手的 AI 上手手册.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "解放你的生产力·实战篇——新生 AI 上手手册"
+              "title": "Head First AI Agent——给新手的 AI 上手手册"
             }
           }
         ],
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "解放你的生产力·实战篇——新生 AI 上手手册.md",
+                "file": "Head First AI Agent——给新手的 AI 上手手册.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -228,10 +228,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "514cf3b6f0f71bd4",
+  "active": "1b357707ed3e4b32",
   "lastOpenFiles": [
     "解放你的生产力——一份给新生的AI使用指南.md",
-    "解放你的生产力·实战篇——新生 AI 上手手册.md",
+    "Head First AI Agent——给新手的 AI 上手手册.md",
     "欢迎.md",
     "解放你的生产力——一份给新生的AI使用指南.docx"
   ]
